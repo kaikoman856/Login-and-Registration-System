@@ -1,4 +1,4 @@
-//  simple Login and Registration System using a map to store user information
+//  simple c++ program of Login and Registration System using a map to store user information
 #include <iostream>
 #include <string>
 #include <map>
